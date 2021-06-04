@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting label="30001" type="select" id="fba2012cps2_cpu_speed_adjust" values="100|110|120|130|140|150|160|170|180|190|200" default="100"/>
+		<setting label="30002" type="select" id="fba2012cps2_hiscores" values="disabled|enabled" default="disabled"/>
+		<setting label="30003" type="select" id="fba2012cps2_controls" values="gamepad|arcade" default="gamepad"/>
+		<setting label="30004" type="select" id="fba2012cps2_aspect" values="DAR|PAR" default="DAR"/>
+		<setting label="30005" type="select" id="fba2012cps2_auto_rotate" values="enabled|disabled" default="enabled"/>
+		<setting label="30006" type="select" id="fba2012cps2_lowpass_filter" values="disabled|enabled" default="disabled"/>
+		<setting label="30007" type="select" id="fba2012cps2_lowpass_range" values="60|5|10|15|20|25|30|35|40|45|50|55|65|70|75|80|85|90|95" default="60"/>
+		<setting label="30008" type="select" id="fba2012cps2_frameskip" values="disabled|auto|manual" default="disabled"/>
+		<setting label="30009" type="select" id="fba2012cps2_frameskip_threshold" values="33|15|18|21|24|27|30|36|39|42|45|48|51|54|57|60" default="33"/>
+	</category>
+</settings>
