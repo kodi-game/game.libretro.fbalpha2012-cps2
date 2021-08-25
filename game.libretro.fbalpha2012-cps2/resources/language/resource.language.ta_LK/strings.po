@@ -21,7 +21,7 @@ msgid "Arcade (FB Alpha 2012 CPS-2) v0.2.97.28"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Port of Final Burn Alpha 2012 to Libretro. Standalone core for Capcom CPS2.Supported files: .zip"
+msgid "A port of FinalBurn Alpha 2012 to Libretro. This is the standalone core for Capcom CPS-2."
 msgstr ""
 
 msgctxt "#30000"
