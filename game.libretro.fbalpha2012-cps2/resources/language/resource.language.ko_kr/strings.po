@@ -34,7 +34,7 @@ msgid "CPU Speed (%)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Hiscores"
+msgid "High scores"
 msgstr ""
 
 msgctxt "#30003"
@@ -46,7 +46,7 @@ msgid "Core-Provided Aspect Ratio"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Rotate Vertically Aligned Games (Restart)"
+msgid "Rotate Vertically Aligned Games (Restart Required)"
 msgstr ""
 
 msgctxt "#30006"

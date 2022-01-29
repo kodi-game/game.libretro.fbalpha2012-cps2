@@ -34,8 +34,8 @@ msgid "CPU Speed (%)"
 msgstr "CPU-hastighed (%)"
 
 msgctxt "#30002"
-msgid "Hiscores"
-msgstr "Rekorder"
+msgid "High scores"
+msgstr ""
 
 msgctxt "#30003"
 msgid "Controls"
@@ -46,8 +46,8 @@ msgid "Core-Provided Aspect Ratio"
 msgstr "Billedformat leveret af core"
 
 msgctxt "#30005"
-msgid "Rotate Vertically Aligned Games (Restart)"
-msgstr "Rotér lodret justerede spil (genstart)"
+msgid "Rotate Vertically Aligned Games (Restart Required)"
+msgstr ""
 
 msgctxt "#30006"
 msgid "Audio Filter"
@@ -64,3 +64,11 @@ msgstr "Spring frame over"
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
 msgstr "Tærskel når der springes en frame over (%)"
+
+#~ msgctxt "#30002"
+#~ msgid "Hiscores"
+#~ msgstr "Rekorder"
+
+#~ msgctxt "#30005"
+#~ msgid "Rotate Vertically Aligned Games (Restart)"
+#~ msgstr "Rotér lodret justerede spil (genstart)"
