@@ -13,7 +13,7 @@ Non-commercial
 
 ### Icon
 
-![Icon](game.libretro.fbalpha2012-cps2/resources/icon.png)
+![Arcade (FB Alpha 2012 CPS-2) icon](game.libretro.fbalpha2012-cps2/resources/icon.png)
 
 ### Fanart
 
