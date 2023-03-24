@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.15\n"
 
 msgctxt "Addon Summary"
-msgid "Arcade (FB Alpha 2012 CPS-2) v0.2.97.28"
+msgid "Arcade (FB Alpha 2012 CPS-2)"
 msgstr ""
 
 msgctxt "Addon Description"
