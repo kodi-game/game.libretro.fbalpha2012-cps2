@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.fbalpha2012-cps2"
 		name="Arcade (FB Alpha 2012 CPS-2)"
-		version="0.2.97.12"
+		version="0.2.97.13"
 		provider-name="Team FB Alpha">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -21,7 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
-		<summary lang="en_GB">Arcade (FB Alpha 2012 CPS-2) v0.2.97.28</summary>
+		<summary lang="en_GB">Arcade (FB Alpha 2012 CPS-2)</summary>
 		<description lang="da_DK">En port af FinalBurn Alpha 2012 til Libretro. Dette er den selvstændige kerne til Capcom CPS-2.</description>
 		<description lang="de_DE">Eine Portierung von FinalBurn Alpha 2012 auf Libretro. Dies ist der eigenständige Core für Capcom CPS-2.</description>
 		<description lang="en_GB">A port of FinalBurn Alpha 2012 to Libretro. This is the standalone core for Capcom CPS-2.</description>
