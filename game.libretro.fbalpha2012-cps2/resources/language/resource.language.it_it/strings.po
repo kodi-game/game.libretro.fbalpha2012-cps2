@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "A port of FinalBurn Alpha 2012 to Libretro. This is the standalone core for Capcom CPS-2."
 msgstr "Un porting di FinalBurn Alpha 2012 su Libretro. Questo è il core autonomo per Capcom CPS-2."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "CPU Speed (%)"
 msgstr "Velocità CPU (%)"
@@ -64,3 +60,7 @@ msgstr "Salto fotogrammi"
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
 msgstr "Soglia di salto fotogrammi (%)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
