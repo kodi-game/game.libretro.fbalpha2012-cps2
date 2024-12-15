@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="fba2012cps2_cpu_speed_adjust" values="100|110|120|130|140|150|160|170|180|190|200" default="100"/>
 		<setting label="30002" type="select" id="fba2012cps2_hiscores" values="disabled|enabled" default="disabled"/>
 		<setting label="30003" type="select" id="fba2012cps2_controls" values="gamepad|arcade" default="gamepad"/>
