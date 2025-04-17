@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.fbalpha2012-cps2\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-06-03 19:50i\n"
-"PO-Revision-Date: 2025-04-14 08:16+0000\n"
+"PO-Revision-Date: 2025-04-17 04:27+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-fbalpha2012-cps2/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Arcade (FB Alpha 2012 CPS-2)"
@@ -31,35 +31,38 @@ msgstr "CPU-hastighet (%)"
 
 msgctxt "#30002"
 msgid "High scores"
-msgstr ""
+msgstr "Höga poäng"
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr ""
+msgstr "Kontroller"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "Aspect Ratio som tillhandahålls av Core"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
-msgstr ""
+msgstr "Rotera vertikalt inriktade spel (omstart krävs)"
 
 msgctxt "#30006"
 msgid "Audio Filter"
 msgstr "Ljudfilter"
 
+#, fuzzy
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
-msgstr ""
+msgstr "Ljudfilternivå (%)"
 
 msgctxt "#30008"
 msgid "Frameskip"
-msgstr ""
+msgstr "Hoppa över bildrutor"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Tröskelvärde för bildöverhoppning (%)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
