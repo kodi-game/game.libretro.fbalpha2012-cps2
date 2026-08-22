@@ -61,6 +61,58 @@ msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
 msgstr ""
 
+msgctxt "#30010"
+msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
+msgstr ""
+
+msgctxt "#30011"
+msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
+msgstr ""
+
+msgctxt "#30012"
+msgid "Set default controller mapping."
+msgstr ""
+
+msgctxt "#30013"
+msgid "Gamepad"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Arcade"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
+msgstr ""
+
+msgctxt "#30016"
+msgid "Automatically rotate the display when running vertically aligned games. When disabled, D-Pad input will be rotated to match on-screen directions."
+msgstr ""
+
+msgctxt "#30017"
+msgid "Enables a low pass audio filter to soften the 'harsh' sound of some arcade games."
+msgstr ""
+
+msgctxt "#30018"
+msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
+msgstr ""
+
+msgctxt "#30019"
+msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
+msgstr ""
+
+msgctxt "#30020"
+msgid "Auto"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Manual"
+msgstr ""
+
+msgctxt "#30022"
+msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "설정"
