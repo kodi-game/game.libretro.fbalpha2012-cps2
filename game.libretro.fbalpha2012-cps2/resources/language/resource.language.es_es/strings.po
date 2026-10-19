@@ -31,7 +31,7 @@ msgstr "Velocidad de la CPU (%)"
 
 msgctxt "#30002"
 msgid "High scores"
-msgstr "Mejores puntuaciones"
+msgstr "Tablas de puntuaciones"
 
 msgctxt "#30003"
 msgid "Controls"
@@ -39,43 +39,43 @@ msgstr "Controles"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr "Relación de Aspecto Proporcionada por el Núcleo"
+msgstr "Relación de aspecto del núcleo"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
-msgstr "Girar Juegos Alineados Verticalmente (Reinicio Requerido)"
+msgstr "Rotar los juegos con una alineación vertical (es necesario reiniciar)"
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr "Filtro de Audio"
+msgstr "Filtro de audio"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
-msgstr "Nivel del Filtro de Audio (%)"
+msgstr "Nivel del filtro de audio (%)"
 
 msgctxt "#30008"
 msgid "Frameskip"
-msgstr "Salto de fotogramas"
+msgstr "Omisión de fotogramas"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr "Umbral de Salto de Fotogramas (%)"
+msgstr "Umbral de omisión de fotogramas (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "Aumenta la velocidad de la CPU emulada. Puede reducir las ralentizaciones, pero podría provocar fallos gráficos."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
-msgstr ""
+msgstr "Guarda las tablas con las mejores puntuaciones en los juegos compatibles con esta función. Es necesario tener el archivo «hiscore.dat» en la carpeta system/fbalpha2012/."
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr ""
+msgstr "Establece la asignación predeterminada de los mandos."
 
 msgctxt "#30013"
 msgid "Gamepad"
-msgstr ""
+msgstr "Mando"
 
 msgctxt "#30014"
 msgid "Arcade"
@@ -83,27 +83,27 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Selecciona la relación de aspecto preferida para los contenidos. Este ajuste solo se aplicará cuando la relación de aspecto de RetroArch esté configurada como «Asignada por el núcleo»."
 
 msgctxt "#30016"
 msgid "Automatically rotate the display when running vertically aligned games. When disabled, D-Pad input will be rotated to match on-screen directions."
-msgstr ""
+msgstr "Rota automáticamente la imagen al ejecutar juegos con una alineación vertical. Al desactivar esta opción, la entrada de la cruceta se rotará para que coincida con las direcciones que aparezcan en pantalla."
 
 msgctxt "#30017"
 msgid "Enables a low pass audio filter to soften the 'harsh' sound of some arcade games."
-msgstr ""
+msgstr "Aplica un filtro de paso bajo al audio para suavizar la estridencia del sonido de ciertos juegos arcade."
 
 msgctxt "#30018"
 msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr ""
+msgstr "Especifica el corte de frecuencias en el filtro de paso bajo de audio. Un valor elevado aumentará la fuerza percibida del filtro, ya que se atenuará un rango mayor del espectro de frecuencias altas."
 
 msgctxt "#30019"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Omite fotogramas para no saturar el búfer de audio (chasquidos en el sonido). Mejora el rendimiento a costa de perder fluidez visual. Selección automática omite fotogramas según lo aconseje el front-end. El valor Manual utiliza el ajuste Umbral de omisión de fotogramas (%)."
 
 msgctxt "#30020"
 msgid "Auto"
-msgstr ""
+msgstr "Selección automática"
 
 msgctxt "#30021"
 msgid "Manual"
@@ -111,7 +111,7 @@ msgstr ""
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Cuando la omisión de fotogramas esté configurada como Manual, este ajuste especifica el umbral de ocupación del búfer de audio (en porcentaje) por debajo del cual se omitirán fotogramas si el valor. Un valor más elevado reduce el riesgo de chasquidos omitiendo fotogramas con una mayor frecuencia."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

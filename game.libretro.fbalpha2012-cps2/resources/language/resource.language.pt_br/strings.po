@@ -27,51 +27,53 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CPU Speed (%)"
-msgstr ""
+msgstr "Velocidade da CPU (%)"
 
 msgctxt "#30002"
 msgid "High scores"
-msgstr ""
+msgstr "Pontuações"
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr ""
+msgstr "Controles"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "Proporção de tela do núcleo"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
-msgstr ""
+msgstr "Rotacionar jogos verticais (requer reinício)"
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Filtro de áudio"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
-msgstr ""
+msgstr "Nível do filtro de áudio (%)"
 
 msgctxt "#30008"
 msgid "Frameskip"
-msgstr ""
+msgstr "Pulo de quadro"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Limite do pulo de quadro (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "Aumenta a velocidade (overclock) da CPU emulada. Pode reduzir a lentidão, mas pode causar falhas."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
 msgstr ""
+"Salva as melhores pontuações em jogos compatíveis.\n"
+"OBSERVAÇÃO: requer arquivo \"hiscore.dat\" na pasta \"system/fbalpha2012/\"."
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr ""
+msgstr "Define o mapeamento padrão dos controles."
 
 msgctxt "#30013"
 msgid "Gamepad"
@@ -79,31 +81,33 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Arcade"
-msgstr ""
+msgstr "Fliperama"
 
 msgctxt "#30015"
 msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
 msgstr ""
+"Define a proporção de tela prioritária do conteúdo.\n"
+"OBSERVAÇÃO: requer \"Fornecida pelo núcleo\" ativada nas configurações de vídeo."
 
 msgctxt "#30016"
 msgid "Automatically rotate the display when running vertically aligned games. When disabled, D-Pad input will be rotated to match on-screen directions."
-msgstr ""
+msgstr "Gira a tela automaticamente ao executar jogos com alinhamento vertical. Ao ser desativada, a entrada do direcional digital (D-Pad) será girada para combinar com as direções exibidas na tela."
 
 msgctxt "#30017"
 msgid "Enables a low pass audio filter to soften the 'harsh' sound of some arcade games."
-msgstr ""
+msgstr "Ativa um filtro de áudio passa-baixo para suavizar a estridência do som de alguns jogos de fliperama."
 
 msgctxt "#30018"
 msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr ""
+msgstr "Especifica a frequência de corte do filtro de áudio passa-baixo. Um valor mais alto aumenta a \"força\" percebida do filtro, uma vez que uma faixa mais ampla do espectro de alta frequência é atenuada."
 
 msgctxt "#30019"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Ignora quadros para evitar o esvaziamento da memória intermédia (buffer) do áudio (corte no áudio). Melhora o desempenho ao custo da suavidade visual. A opção \"Automático\" ignora os quadros quando aconselhado pela interface. \"Manual\" usa a configuração \"Limite do pulo de quadro (%)\"."
 
 msgctxt "#30020"
 msgid "Auto"
-msgstr ""
+msgstr "Automático"
 
 msgctxt "#30021"
 msgid "Manual"
@@ -111,7 +115,7 @@ msgstr ""
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Ao configurar \"Pulo de quadro\" como \"Manual\", especifica o limite da memória intermédia (buffer) de áudio em porcentagem, os quadros fora da porcentagem serão ignorados. Valores maiores reduzem o risco de engasgo por descartar quadros com mais frequência."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

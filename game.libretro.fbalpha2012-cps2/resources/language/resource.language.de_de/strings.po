@@ -39,7 +39,7 @@ msgstr "Steuerung"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr "Von Core vorgegebenes Seitenverhältnis"
+msgstr "Core-Bereitgestelltes Seitenverhältnis"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
@@ -51,7 +51,7 @@ msgstr "Audiofilter"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
-msgstr "Audiofilterstärke (%)"
+msgstr "Audiofilterstufe (%)"
 
 msgctxt "#30008"
 msgid "Frameskip"
@@ -59,19 +59,19 @@ msgstr "Frameskip"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr "Frameskip-Schwellenwert (%)"
+msgstr "Frameskip Grenzwert (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "Aktiviert das Übertakten der emulierten CPU. Kann Slowdown verringern, aber Glitches verursachen."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
-msgstr ""
+msgstr "Ermöglicht das Speichern von Highscores in unterstützten Spielen. Erfordert, dass die Datei \"hiscore.dat\" im Ordner system/fbalpha2012/ angelegt wird."
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr ""
+msgstr "Standard-Controller-Belegung festlegen."
 
 msgctxt "#30013"
 msgid "Gamepad"
@@ -83,35 +83,35 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Wählt das bevorzugte Seitenverhältnis des Inhalts. Dies gilt nur, wenn das Seitenverhältnis von RetroArch in den Videoeinstellungen auf \"Wie von Core vorgesehen\" eingestellt ist."
 
 msgctxt "#30016"
 msgid "Automatically rotate the display when running vertically aligned games. When disabled, D-Pad input will be rotated to match on-screen directions."
-msgstr ""
+msgstr "Die Anzeige automatisch drehen, wenn vertikal ausgerichtete Spiele ausgeführt werden. Wenn deaktiviert, wird die D-Pad-Eingabe gedreht, damit sie der Richtung auf dem Bildschirm entspricht."
 
 msgctxt "#30017"
 msgid "Enables a low pass audio filter to soften the 'harsh' sound of some arcade games."
-msgstr ""
+msgstr "Aktiviert einen Tiefpass-Audiofilter, um den „grellen“ Klang einiger Arcade-Spiele zu mildern."
 
 msgctxt "#30018"
 msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr ""
+msgstr "Legt die Höchstfrequenz des Tiefpass-Audiofilters fest. Ein höherer Wert erhöht die wahrgenommene „Stärke“ des Filters, da ein größerer Bereich des Hochfrequenzspektrums abgeschwächt wird."
 
 msgctxt "#30019"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Überspringt Frames, um zu vermeiden, dass Audio-Puffer unterlaufen (Knistern). Verbessert die Leistung auf Kosten der visuellen Glätte. 'Automatisch' überspringt Frames wenn vom Frontend empfohlen. 'Manuell' verwendet die Einstellung 'Frameskip Grenzwert (%)'."
 
 msgctxt "#30020"
 msgid "Auto"
-msgstr ""
+msgstr "Automatisch"
 
 msgctxt "#30021"
 msgid "Manual"
-msgstr ""
+msgstr "Manuell"
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Gibt den Audiopuffer-Belegungsschwellenwert (Prozent) an, unter dem Frames übersprungen werden, wenn 'Frameskip' auf 'Manuell' eingestellt ist. Höhere Werte verringern das Risiko von Knistern, da Frames häufiger weggelassen werden."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

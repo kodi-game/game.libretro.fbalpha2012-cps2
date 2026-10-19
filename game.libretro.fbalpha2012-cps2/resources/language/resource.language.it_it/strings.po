@@ -31,7 +31,7 @@ msgstr "Velocità CPU (%)"
 
 msgctxt "#30002"
 msgid "High scores"
-msgstr "Punteggi migliori"
+msgstr "Punteggi elevati"
 
 msgctxt "#30003"
 msgid "Controls"
@@ -39,39 +39,39 @@ msgstr "Controlli"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr "Proporzioni fornite dal core"
+msgstr "Rapporto Dimensioni fornito dal Core"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
-msgstr "Ruota giochi allineati verticalmente (riavvio richiesto)"
+msgstr "Ruota Giochi Allineati Verticalmente (Riavvio Richiesto)"
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr "Filtro audio"
+msgstr "Filtro Audio"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
-msgstr "Livello filtro audio (%)"
+msgstr "Livello Filtro Audio (%)"
 
 msgctxt "#30008"
 msgid "Frameskip"
-msgstr "Salto fotogrammi"
+msgstr "Salta fotogramma"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr "Soglia di salto fotogrammi (%)"
+msgstr "Soglia salto fotogrammi (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "Abilita l'overclocking della CPU emulata. Può ridurre il rallentamento, ma può causare glitch."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
-msgstr ""
+msgstr "Abilita il salvataggio di punteggi alti nei giochi supportati. Richiede che il file 'hiscore.dat' sia posizionato nella cartella system/fbalpha2012/."
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr ""
+msgstr "Imposta mappatura controller predefinita."
 
 msgctxt "#30013"
 msgid "Gamepad"
@@ -83,35 +83,35 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Seleziona le proporzioni preferite del contenuto. Ciò si applicherà solo quando le proporzioni di RetroArc sono impostate su 'Core fornito' nelle impostazioni del video."
 
 msgctxt "#30016"
 msgid "Automatically rotate the display when running vertically aligned games. When disabled, D-Pad input will be rotated to match on-screen directions."
-msgstr ""
+msgstr "Ruota automaticamente il display quando esegui partite allineate verticalmente. Quando disabilitato, l'input D-Pad sarà ruotato per corrispondere alle direzioni sullo schermo."
 
 msgctxt "#30017"
 msgid "Enables a low pass audio filter to soften the 'harsh' sound of some arcade games."
-msgstr ""
+msgstr "Abilita un filtro audio passa-basso per ammorbidire il suono 'duro' di alcuni giochi arcade."
 
 msgctxt "#30018"
 msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr ""
+msgstr "Specifica la frequenza di cut-off del filtro audio passa-basso. Un valore più elevato aumenta la 'forza' percepita del filtro, poiché una gamma più ampia dello spettro ad alta frequenza è attenuata."
 
 msgctxt "#30019"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Salta i fotogrammi per evitare la sottoesecuzione del buffer audio (crackling). Migliora le prestazioni a scapito della fluidità visiva. 'Auto' salta i quadri quando consigliato dal frontend. 'Manuale' utilizza l'impostazione 'Frameskip Threshold (%)'."
 
 msgctxt "#30020"
 msgid "Auto"
-msgstr ""
+msgstr "Automatico"
 
 msgctxt "#30021"
 msgid "Manual"
-msgstr ""
+msgstr "Manuale"
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Quando 'Salta fotogramma\" è impostato a 'Manuale', specifica la soglia di occupazione del buffer audio (percentuale) al di sotto della quale i quadri verranno saltati. Valori più elevati riducono il rischio di rompere causando un calo più frequente dei fotogrammi."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

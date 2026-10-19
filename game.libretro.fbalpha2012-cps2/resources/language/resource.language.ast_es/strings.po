@@ -27,11 +27,11 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CPU Speed (%)"
-msgstr ""
+msgstr "Velocidá de la CPU (%)"
 
 msgctxt "#30002"
 msgid "High scores"
-msgstr ""
+msgstr "Puntuaciones altes"
 
 msgctxt "#30003"
 msgid "Controls"
@@ -39,7 +39,7 @@ msgstr ""
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "Proporción d'aspeutu fornida pol nucleu"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "#30008"
 msgid "Frameskip"
-msgstr ""
+msgstr "Saltu de cuadros"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
@@ -67,7 +67,7 @@ msgstr ""
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
-msgstr ""
+msgstr "Activa'l guardáu de les puntuaciones altes de los xuegos compatibles. El ficheru «hiscore.dat» ha tar na carpeta «system/fbalpha2012/»."
 
 msgctxt "#30012"
 msgid "Set default controller mapping."

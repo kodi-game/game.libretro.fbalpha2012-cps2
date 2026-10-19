@@ -27,51 +27,51 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CPU Speed (%)"
-msgstr ""
+msgstr "CPU sebesség (%)"
 
 msgctxt "#30002"
 msgid "High scores"
-msgstr ""
+msgstr "Legjobb pontszámok"
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr ""
+msgstr "Irányítás"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "Mag által meghatározott képarány"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
-msgstr ""
+msgstr "Függőleges képállású játékok forgatása (újraindítás szükséges)"
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Hangszűrő"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
-msgstr ""
+msgstr "Hangszűrő szintje (%)"
 
 msgctxt "#30008"
 msgid "Frameskip"
-msgstr ""
+msgstr "Képkocka kihagyás"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Képkocka kihagyás határértéke (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "Az emulált CPU túlhajtásának engedélyezése. Csökkentheti a belassulást, de hibákat okozhat."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
-msgstr ""
+msgstr "A legjobb pontszámok mentésének engedélyezése a támogatott játékokban. A \"hiscore.dat\" fájlnak a system/fbalpha2012/ mappában kell lennie."
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr ""
+msgstr "Az alapértelmezett kontrollerkiosztás."
 
 msgctxt "#30013"
 msgid "Gamepad"
@@ -83,32 +83,32 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "A tartalom kívánt képaránya. Csak akkor lép életbe, ha a RetroArch saját képarány beállítása \"Mag által meghatározott\" értékre van állítva a kép beállításainál."
 
 msgctxt "#30016"
 msgid "Automatically rotate the display when running vertically aligned games. When disabled, D-Pad input will be rotated to match on-screen directions."
-msgstr ""
+msgstr "A kijelző automatikus forgatása függőleges képállású játékoknál. Kikapcsolva a D-Pad bemenete a képernyőhöz viszonyított irányokba lesz elforgatva."
 
 msgctxt "#30017"
 msgid "Enables a low pass audio filter to soften the 'harsh' sound of some arcade games."
-msgstr ""
+msgstr "Aluláteresztő hangszűrő engedélyezése, néhány arcade játék \"nyers\" hangjának tompításához."
 
 msgctxt "#30018"
 msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr ""
+msgstr "Az aluláteresztő hangszűrő vágási frekvenciája. Nagyobb érték \"erősebb\" szűrésként hallatszik, mivel a magastartomány szélesebb sávja halkul el."
 
 msgctxt "#30019"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "A hangbuffer kiürülése (recsegés) elkerülésére képkockák eldobása. Javít a teljesítményen a vizuális folyamatosság kárára. Az \"Automatikus\" beállítás akkor dob képkockát, ha a frontend azt javasolja. A \"Kézi\" a \"Képkocka kihagyás határértéke (%)\" beállítást használja."
 
 msgctxt "#30020"
 msgid "Auto"
-msgstr ""
+msgstr "Automatikus"
 
 msgctxt "#30021"
 msgid "Manual"
-msgstr ""
+msgstr "Kézi"
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Ha a \"Képkocka kihagyás\" \"Kézi\" értékre van állítva, ez határozza meg a hangpuffer telítettségi határát (százalékban), amely alatt képkockákat dob el. Nagyobb érték csökkenti a recsegés kockázatát azáltal, hogy gyakrabban dob el képkockát."

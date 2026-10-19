@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CPU Speed (%)"
-msgstr ""
+msgstr "Tốc độ CPU (%)"
 
 msgctxt "#30002"
 msgid "High scores"
@@ -35,11 +35,11 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr ""
+msgstr "Điều khiển"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "Tỷ lệ khung hình do lõi cung cấp"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
@@ -47,27 +47,27 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Âm thanh Filter Danh mục"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
-msgstr ""
+msgstr "Mức lọc âm (%)"
 
 msgctxt "#30008"
 msgid "Frameskip"
-msgstr ""
+msgstr "Bỏ qua khung hình"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Ngưỡng bỏ qua khung hình (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "Cho phép ép xung CPU mô phỏng. Có thể nhanh hơn nhưng dễ gây ra trục trặc."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
-msgstr ""
+msgstr "Cho phép lưu điểm cao trong những trò chơi hỗ trợ. Cần có tệp 'hiscore.dat' trong thư mục ./fbalpha2012/."
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
@@ -83,32 +83,32 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Chọn tỷ lệ khung hình ưa thích. Chỉ áp dụng khi tỷ lệ khung hình của RetroArch được đặt thành 'Lõi được cung cấp' trong cài đặt Video."
 
 msgctxt "#30016"
 msgid "Automatically rotate the display when running vertically aligned games. When disabled, D-Pad input will be rotated to match on-screen directions."
-msgstr ""
+msgstr "Tự động xoay màn hình khi chạy các trò chơi theo chiều dọc. Khi tắt, D-Pad sẽ được xoay để khớp với hướng trên màn hình."
 
 msgctxt "#30017"
 msgid "Enables a low pass audio filter to soften the 'harsh' sound of some arcade games."
-msgstr ""
+msgstr "Bật bộ lọc âm thanh thông thấp để làm dịu âm thanh 'khó nghe' của một số game thùng."
 
 msgctxt "#30018"
 msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr ""
+msgstr "Chỉ định tần số giới hạn của bộ lọc âm thanh thông thấp. Giá trị cao hơn làm tăng 'sức mạnh' cảm nhận được của bộ lọc, vì dải phổ tần số cao rộng hơn bị yếu đi."
 
 msgctxt "#30019"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Bỏ qua khung hình để tránh bộ đệm âm thanh chạy dưới mức (tiếng kêu lách tách). Cải thiện hiệu suất với độ mượt mà của hình ảnh. 'Tự động' bỏ qua khung khi giao diện người dùng thông báo. 'Thủ công' sử dụng cài đặt 'Ngưỡng khung hình (%)'."
 
 msgctxt "#30020"
 msgid "Auto"
-msgstr ""
+msgstr "Tự động"
 
 msgctxt "#30021"
 msgid "Manual"
-msgstr ""
+msgstr "Thủ công"
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Khi 'Frameskip' được đặt thành 'Thủ công', chỉ định ngưỡng chiếm dụng bộ đệm âm thanh (tỷ lệ phần trăm) dưới khung hình nào sẽ bị bỏ qua. Giá trị cao hơn làm giảm nguy cơ giật lag do làm rơi khung thường xuyên hơn."

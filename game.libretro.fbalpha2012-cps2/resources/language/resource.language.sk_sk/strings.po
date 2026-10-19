@@ -27,19 +27,19 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CPU Speed (%)"
-msgstr ""
+msgstr "Rýchlosť CPU (%)"
 
 msgctxt "#30002"
 msgid "High scores"
-msgstr ""
+msgstr "Najvyššie skóre"
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr ""
+msgstr "Ovládanie"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "Jadrom poskytnutý pomer strán"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
@@ -47,7 +47,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Zvukový filter"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
@@ -55,15 +55,15 @@ msgstr ""
 
 msgctxt "#30008"
 msgid "Frameskip"
-msgstr ""
+msgstr "Preskočenie snímky"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Prah preskočenia snímky (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "Umožniť pretaktovanie emulovaného CPU. Môže znížiť spomalenia, ale môže spôsobiť vady."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
@@ -71,15 +71,15 @@ msgstr ""
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr ""
+msgstr "Nastaviť východzie mapovanie herného ovládača."
 
 msgctxt "#30013"
 msgid "Gamepad"
-msgstr ""
+msgstr "Herný ovládač"
 
 msgctxt "#30014"
 msgid "Arcade"
-msgstr ""
+msgstr "Arkáda"
 
 msgctxt "#30015"
 msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
@@ -107,8 +107,8 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Manual"
-msgstr ""
+msgstr "Ručne"
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Ak je 'Preskočenie snímkov' nastavené na 'Ručne', určuje obsadenosť zvukového zásobníka (v percentách) pod ktorou budú snímky preskočené. Vyššie hodnoty znižujú riziko praskania za cenu zahodenia snímkov častejšie."

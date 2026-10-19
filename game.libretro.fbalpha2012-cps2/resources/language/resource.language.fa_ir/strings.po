@@ -27,59 +27,59 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CPU Speed (%)"
-msgstr ""
+msgstr "سرعت پردازنده (٪)"
 
 msgctxt "#30002"
 msgid "High scores"
-msgstr ""
+msgstr "بالاترین امتیازها"
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr ""
+msgstr "کنترل‌ها"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "نرخ نسبت فراهم‌شده توسط هسته"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
-msgstr ""
+msgstr "چرخاندن بازی‌های با تصویر عمودی (نیازمند شروع مجدد)"
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr ""
+msgstr "پالایهٔ صدا"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
-msgstr ""
+msgstr "سطح پالایهٔ صدا (٪)"
 
 msgctxt "#30008"
 msgid "Frameskip"
-msgstr ""
+msgstr "پرش فریم"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "آستانهٔ پرش فریم (٪)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "اورکلاک CPU شبیه سازی شده را فعال می کند. می تواند کاهش سرعت را کاهش دهد، اما ممکن است باعث اشکال شود."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
-msgstr ""
+msgstr "امکان نگهداری بالاترین امتیازها را در بازی‌های پشتیبانی‌شده فعال می‌کند. لازم است سند «hiscore.dat» در مسیر system/fbalpha2012/ قرار بگیرد."
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr ""
+msgstr "نقشه پیش فرض کنترلر را تنظیم کنید."
 
 msgctxt "#30013"
 msgid "Gamepad"
-msgstr ""
+msgstr "دسته‌بازی"
 
 msgctxt "#30014"
 msgid "Arcade"
-msgstr ""
+msgstr "آرکید"
 
 msgctxt "#30015"
 msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
@@ -91,24 +91,24 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Enables a low pass audio filter to soften the 'harsh' sound of some arcade games."
-msgstr ""
+msgstr "به‌منظور نرم کردن صدای «زبر» بعضی از بازی‌های آرکید، یک پالایهٔ پایین‌گذر روی صدا فعال می‌کند."
 
 msgctxt "#30018"
 msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr ""
+msgstr "بسامد قطع پالایهٔ پایین‌گذر را مشخص می‌کند. افزایش مقدار باعث افزایش «قدرت» پالایه می‌شود چرا که دامنهٔ وسیع‌تری از بسامدهای بالای روی طیف تضعیف می‌شود."
 
 msgctxt "#30019"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "برای جلوگیری از اجرا شدن بافر صوتی (ترق زدن) از فریم‌ها پرش کنید. عملکرد را در ازای صاف‌بودن تصویر بهبود می‌بخشد. حالت «خودکار»هنگام توصیهٔ پیشانه از روی فریم‌ها می‌پرد. حالت «دستی» تنظیم «آستانهٔ پرش فریم (٪)» را فعال می‌کند."
 
 msgctxt "#30020"
 msgid "Auto"
-msgstr ""
+msgstr "خودکار"
 
 msgctxt "#30021"
 msgid "Manual"
-msgstr ""
+msgstr "دستی"
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "زمانی که «پرش فریم» روی «دستی» تنظیم شده باشد، آستانهٔ (درصد) اشغال بافر صوتی را برای پرش از روی فریم‌ها تنظیم می‌کند. مقادیر بالاتر احتمال ترق خوردن صدا را با رها کردن فریم‌های بیشتر، کاهش می‌دهد."

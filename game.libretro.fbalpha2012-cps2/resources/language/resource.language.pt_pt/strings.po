@@ -35,7 +35,7 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr ""
+msgstr "Mapeamento de teclas"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
@@ -47,7 +47,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Filtro de som"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
@@ -103,7 +103,7 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "Auto"
-msgstr ""
+msgstr "Automático"
 
 msgctxt "#30021"
 msgid "Manual"

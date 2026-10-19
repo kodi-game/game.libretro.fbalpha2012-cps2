@@ -27,19 +27,19 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CPU Speed (%)"
-msgstr ""
+msgstr "Suorittimen nopeus (%)"
 
 msgctxt "#30002"
 msgid "High scores"
-msgstr ""
+msgstr "Parhaat tulokset"
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr ""
+msgstr "Ohjaus"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "Ytimen määrittämä kuvasuhde"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
@@ -51,19 +51,19 @@ msgstr "Äänisuodatin"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
-msgstr ""
+msgstr "Äänen suodatustaso (%)"
 
 msgctxt "#30008"
 msgid "Frameskip"
-msgstr "Kuvaohitus"
+msgstr "Kuvanohitus"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr "Kuvaohituskynnys (%)"
+msgstr "Kuvienohituksen arvo (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "Mahdollistaa emuloidun suorittimen ylikellotuksen. Voi vähentää hidastumista, mutta saattaa aiheuttaa virheitä."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
@@ -71,11 +71,11 @@ msgstr ""
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr ""
+msgstr "Aseta ohjaimen oletuskartoitus."
 
 msgctxt "#30013"
 msgid "Gamepad"
-msgstr ""
+msgstr "Peliohjain"
 
 msgctxt "#30014"
 msgid "Arcade"
@@ -95,23 +95,23 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr ""
+msgstr "Määritä alipäästösuodattimen katkaisu taajuus. Korkeampi arvo nostaa suodattimen \"vahvuutta\", koska suurempi osuus korkeamman taajuuden spektristä on vaimennettu."
 
 msgctxt "#30019"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Ohita kuvia välttääksesi äänipuskurin ali ajon (säröily). Parantaa suorituskykyä visuaalisen tasaisuuden kustannuksella. \"Automaatti\" ohittaa kehykset käyttöliittymän asetusten mukaan. \"Manuaalinen\" käyttää \"Kuvienohituksen arvo (%)\" -asetusta."
 
 msgctxt "#30020"
 msgid "Auto"
-msgstr ""
+msgstr "Automaattinen"
 
 msgctxt "#30021"
 msgid "Manual"
-msgstr ""
+msgstr "Manuaalinen"
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Kun \"kehyksen ohitus\" on asetettu \"manuaaliksi\", määrittää äänipuskuri käyttökynnyksen (prosentteina), jonka alapuolella kehykset ohitetaan. Korkeammat arvot vähentävät särkymisen riskiä siten, että kehykset putoavat useammin."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

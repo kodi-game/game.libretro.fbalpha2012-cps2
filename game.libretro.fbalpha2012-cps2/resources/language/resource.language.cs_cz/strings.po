@@ -35,19 +35,19 @@ msgstr "Nejvyšší skóre"
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr "Ovládání"
+msgstr "Her. ovladače"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr "Poměr stran poskytovaný jádrem"
+msgstr "Poměr Stran Poskytnuté Jádro"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
-msgstr "Otočit svisle orientované hry (vyžaduje restart)"
+msgstr "Vertikálně Otáčení Zarovnaných Her (Nutný Restart)"
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr "Zvukový filtr"
+msgstr "Filtr zvuku"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
@@ -59,19 +59,19 @@ msgstr "Přeskakování snímků"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr "Práh přeskakování snímků (%)"
+msgstr "Prahová hodnota Frameskip (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr "Povolit přetaktování emulovaného CPU. Může omezit zpomalování, ale může způsobit chyby."
+msgstr "Umožňuje přetaktování emulovaného procesoru. Může snížit zpomalení, ale může způsobit závady."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
-msgstr "Povolit ukládání nejvyšších skóre v podporovaných hrách. Vyžaduje umístění souboru 'hiscore.dat' do složky system/fbalpha2012/."
+msgstr "Umožňuje ukládání vysokých skóre v podporovaných hrách. Vyžaduje umístění souboru 'hiscore.dat' do složky system/fbalpha2012/."
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr "Nastavit výchozí mapování ovladače."
+msgstr "Nastavení výchozího mapování ovladače."
 
 msgctxt "#30013"
 msgid "Gamepad"
@@ -83,23 +83,23 @@ msgstr "Arkáda"
 
 msgctxt "#30015"
 msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr "Zvolit preferovaný poměr stran obsahu. Použije se pouze tehdy, je-li poměr stran RetroArchu v nastavení videa nastaven na „Poskytnuto jádrem“."
+msgstr "Vybere preferovaný poměr stran obsahu. To se použije pouze v případě, že je poměr stran aplikace RetroArch v nastavení videa nastaven na hodnotu 'Poskytnuté Jádro'."
 
 msgctxt "#30016"
 msgid "Automatically rotate the display when running vertically aligned games. When disabled, D-Pad input will be rotated to match on-screen directions."
-msgstr "Automaticky otáčet zobrazení při spuštění svisle orientovaných her. Je-li volba vypnuta, vstup z D-Padu se otočí tak, aby odpovídal směrům na obrazovce."
+msgstr "Automatické otáčení displeje při spuštění vertikálně zarovnaných her. Pokud je tato funkce vypnutá, bude se vstup z D-Padu otáčet tak, aby odpovídal směrům na obrazovce."
 
 msgctxt "#30017"
 msgid "Enables a low pass audio filter to soften the 'harsh' sound of some arcade games."
-msgstr "Povolit dolní propust zvuku ke zmírnění „ostrého“ zvuku některých arkádových her."
+msgstr "Umožňuje použít nízkoprůchodový zvukový filtr pro zmírnění 'drsného' zvuku některých arkádových her."
 
 msgctxt "#30018"
 msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr "Určuje mezní frekvenci zvukového filtru typu dolní propust. Vyšší hodnota zvyšuje vnímanou „intenzitu“ filtru, protože se zeslabuje širší část vysokofrekvenčního spektra."
+msgstr "Určuje mezní frekvenci dolní propusti zvukového filtru. Vyšší hodnota zvyšuje vnímanou 'sílu' filtru, protože je potlačen širší rozsah vysokofrekvenčního spektra."
 
 msgctxt "#30019"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr "Přeskakovat snímky, aby se zabránilo podtečení zvukové vyrovnávací paměti (praskání). Zlepší výkon za cenu plynulosti obrazu. „Automaticky“ přeskakuje snímky na doporučení frontendu. „Ručně“ používá nastavení „Práh přeskakování snímků (%)“."
+msgstr "Přeskočení snímků, aby se zabránilo nedostatečnému využití vyrovnávací paměti zvuku (praskání). Zlepšuje výkon na úkor vizuální plynulosti. Funkce 'Auto' přeskakuje snímky, pokud to doporučí frontend. 'Ruční' využívá nastavení 'Práh přeskakování snímků (%)'."
 
 msgctxt "#30020"
 msgid "Auto"
@@ -107,8 +107,8 @@ msgstr "Automaticky"
 
 msgctxt "#30021"
 msgid "Manual"
-msgstr "Ručně"
+msgstr "Ruční"
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr "Když je „Přeskakování snímků“ nastaveno na „Ručně“, určuje práh obsazení zvukové vyrovnávací paměti (procento), pod kterým se budou snímky přeskakovat. Vyšší hodnoty snižují riziko praskání tím, že způsobí častější vynechávání snímků."
+msgstr "Pokud je položka 'Frameskip' nastavena na hodnotu 'Ruční', určuje práh obsazení vyrovnávací paměti zvuku (v procentech), pod kterým budou snímky přeskočeny. Vyšší hodnoty snižují riziko praskání tím, že způsobují častější vynechávání snímků."

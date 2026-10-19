@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CPU Speed (%)"
-msgstr ""
+msgstr "CPU速度 (%)"
 
 msgctxt "#30002"
 msgid "High scores"
@@ -35,11 +35,11 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr ""
+msgstr "控制"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "寬高比 (核心參數)"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
@@ -47,7 +47,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr ""
+msgstr "音訊過濾器"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
@@ -55,15 +55,15 @@ msgstr ""
 
 msgctxt "#30008"
 msgid "Frameskip"
-msgstr ""
+msgstr "跳幀"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "跳幀上限 (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "啟用模擬CPU的超頻。可以減少延遲，但有機會引致閃爍。"
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
@@ -83,7 +83,7 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "設定畫面的寬高比, 僅限「設定/顯示/縮放」選項中, 設定「寬高比」為<核心參數>時使用。"
 
 msgctxt "#30016"
 msgid "Automatically rotate the display when running vertically aligned games. When disabled, D-Pad input will be rotated to match on-screen directions."
@@ -100,15 +100,19 @@ msgstr ""
 msgctxt "#30019"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
 msgstr ""
+"設定跳幀用以避免音訊緩衝區不足(產生破音), 用影像流暢度為代價提高效能。\n"
+"設定<自動>由前端系統控制跳幀, 設定<手動>由「跳幀上限(%)」控制跳幀。"
 
 msgctxt "#30020"
 msgid "Auto"
-msgstr ""
+msgstr "自動"
 
 msgctxt "#30021"
 msgid "Manual"
-msgstr ""
+msgstr "手動"
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
 msgstr ""
+"設定「跳幀」為<手動>時音頻緩衝區使用上限(%)。\n"
+"低於上限的影格將被跳過, 設定過高會導致頻繁丟失影格, 過低則是出現破音。"

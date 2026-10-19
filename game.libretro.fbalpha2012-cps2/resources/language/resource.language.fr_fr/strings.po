@@ -27,55 +27,55 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CPU Speed (%)"
-msgstr ""
+msgstr "Vitesse du processeur (%)"
 
 msgctxt "#30002"
 msgid "High scores"
-msgstr ""
+msgstr "Meilleurs scores"
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr ""
+msgstr "Touches"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "Rapport d'aspect fourni par le cœur"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
-msgstr ""
+msgstr "Rotation des jeux alignés verticalement (Redémarrage requis)"
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Filtre audio"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
-msgstr ""
+msgstr "Niveau du filtre audio (%)"
 
 msgctxt "#30008"
 msgid "Frameskip"
-msgstr ""
+msgstr "Saut d'images"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Seuil de saut d'images (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "Active l'overclocking du processeur émulé. Peut réduire le ralentissement, mais peut causer des problèmes."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
-msgstr ""
+msgstr "Permet la sauvegarde des meilleurs scores dans les jeux pris en charge. Nécessite que le fichier 'hiscore.dat' soit placé dans votre dossier system/fbalpha2012/."
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr ""
+msgstr "Définir le mappage par défaut des manettes."
 
 msgctxt "#30013"
 msgid "Gamepad"
-msgstr ""
+msgstr "Manette"
 
 msgctxt "#30014"
 msgid "Arcade"
@@ -83,23 +83,23 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Sélectionne le rapport d'aspect préféré pour le contenu. Cela ne s'appliquera que lorsque le ratio d'aspect de RetroArch est réglé sur 'Fourni par le cœur' (Core provided) dans les paramètres vidéo."
 
 msgctxt "#30016"
 msgid "Automatically rotate the display when running vertically aligned games. When disabled, D-Pad input will be rotated to match on-screen directions."
-msgstr ""
+msgstr "Faire pivoter automatiquement l'affichage lors du lancement de jeux alignés verticalement. Lorsque cette option est désactivée, les entrées de croix directionnelle sont pivotées pour correspondre aux directions à l'écran."
 
 msgctxt "#30017"
 msgid "Enables a low pass audio filter to soften the 'harsh' sound of some arcade games."
-msgstr ""
+msgstr "Active un filtre audio passe-bas pour adoucir le son 'dur' de certains jeux d'arcade."
 
 msgctxt "#30018"
 msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr ""
+msgstr "Spécifie la fréquence de coupure du filtre passe-bas audio. Une valeur plus élevée accroît la 'force' perçue du filtre, car une gamme plus large du spectre des hautes fréquences est atténuée."
 
 msgctxt "#30019"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Sauter des images pour éviter que le tampon audio ne soit sous-exécuté (crépitements). Améliore les performances au détriment de la fluidité visuelle. 'Auto' saute des images lorsque l'interface le conseille. 'Manuel' utilise le paramètre 'Seuil de saut d'images (%)'."
 
 msgctxt "#30020"
 msgid "Auto"
@@ -107,11 +107,11 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Manual"
-msgstr ""
+msgstr "Manuel"
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Lorsque 'Saut d'images' est réglé sur 'Manuel', spécifie le seuil d'occupation du tampon audio (pourcentage) en dessous duquel des images seront sautées. Des valeurs plus élevées réduisent le risque de crépitements en faisant sauter des images plus fréquemment."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

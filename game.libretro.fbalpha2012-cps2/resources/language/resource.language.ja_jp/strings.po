@@ -27,88 +27,88 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CPU Speed (%)"
-msgstr ""
+msgstr "CPU速度 (%)"
 
 msgctxt "#30002"
 msgid "High scores"
-msgstr ""
+msgstr "ハイスコア"
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr ""
+msgstr "コントロール"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "コア提供アスペクト比"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
-msgstr ""
+msgstr "垂直方向に整列したゲームを回転させる (再起動が必要)"
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr ""
+msgstr "オーディオフィルター"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
-msgstr ""
+msgstr "オーディオフィルターレベル (%)"
 
 msgctxt "#30008"
 msgid "Frameskip"
-msgstr ""
+msgstr "フレームスキップ"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "フレームスキップしきい値 (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "エミュレートされた CPU のオーバークロックを有効にします。実行速度の低下を減らすことができますが、不具合を引き起こす可能性があります。"
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
-msgstr ""
+msgstr "対応ゲームでハイスコアの保存を有効にします。「hiscore.dat」 ファイルを「system/fbalpha2012/・ フォルダに配置する必要があります。"
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr ""
+msgstr "デフォルトのコントローラーマッピングを設定します。"
 
 msgctxt "#30013"
 msgid "Gamepad"
-msgstr ""
+msgstr "ゲームパッド"
 
 msgctxt "#30014"
 msgid "Arcade"
-msgstr ""
+msgstr "アーケード"
 
 msgctxt "#30015"
 msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "コンテンツの優先アスペクト比を選択します。ビデオ設定で RetroArch のアスペクト比が [コア提供] に設定されている場合にのみ適用されます。"
 
 msgctxt "#30016"
 msgid "Automatically rotate the display when running vertically aligned games. When disabled, D-Pad input will be rotated to match on-screen directions."
-msgstr ""
+msgstr "縦向きのゲームを実行する際に画面を自動的に回転させます。無効にすると、画面上の方向に合わせて十字キー入力が回転します。"
 
 msgctxt "#30017"
 msgid "Enables a low pass audio filter to soften the 'harsh' sound of some arcade games."
-msgstr ""
+msgstr "ローパスオーディオフィルターを有効にして、いくつかのアーケードゲームの「硬い音」を柔らかくします。"
 
 msgctxt "#30018"
 msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr ""
+msgstr "ローパスオーディオフィルターのカットオフ周波数を指定します。 値を大きくすると、高周波数スペクトルの広い範囲が減衰するため、フィルタの知覚された「強さ」が増加します。"
 
 msgctxt "#30019"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "フレームをスキップしてオーディオバッファアンダーラン (音割れ) を回避します。視覚的な滑らかさを犠牲にしてパフォーマンスを向上させます。[自動] はフロントエンドによって指示された場合にフレームをスキップします。[手動] は [フレームスキップしきい値 (%)] 設定を使用します。"
 
 msgctxt "#30020"
 msgid "Auto"
-msgstr ""
+msgstr "自動"
 
 msgctxt "#30021"
 msgid "Manual"
-msgstr ""
+msgstr "手動"
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "[フレームスキップ] が [手動] に設定されている場合、フレームがスキップされるオーディオバッファ占有しきい値 (%) を指定します。値を高くするほど、より頻繁にフレームを落とすことで音割れが発生するリスクを軽減します。"

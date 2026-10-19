@@ -27,11 +27,11 @@ msgstr "Порт FinalBurn Alpha 2012 на Libretro. Это отдельное �
 
 msgctxt "#30001"
 msgid "CPU Speed (%)"
-msgstr "Скорость ЦП (%)"
+msgstr "Скорость CPU (%)"
 
 msgctxt "#30002"
 msgid "High scores"
-msgstr "Таблица рекордов"
+msgstr "Рекорды"
 
 msgctxt "#30003"
 msgid "Controls"
@@ -39,15 +39,15 @@ msgstr "Управление"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr "Соотношение сторон от ядра"
+msgstr "Соотношение сторон ядра"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
-msgstr "Поворачивать игры с вертикальной ориентацией (требуется перезапуск)"
+msgstr "Поворот игр в верт. ориентации (требуется перезапуск)"
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr "Фильтр звука"
+msgstr "Аудиофильтр"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
@@ -59,19 +59,19 @@ msgstr "Пропуск кадров"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr "Пороговый уровень пропуска кадров (%)"
+msgstr "Граница пропуска кадров (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr "Включает разгон эмулируемого ЦП. Может уменьшить замедления, но может вызвать сбои."
+msgstr "Включает разгон эмулируемого CPU. Может устранять подтормаживания, но приводить к ошибкам."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
-msgstr "Включает сохранение рекордов в поддерживаемых играх. Требуется разместить файл «hiscore.dat» в папке system/fbalpha2012/."
+msgstr "Включает сохранение рекордов в играх. Требуется наличие файла 'hiscore.dat' в каталоге system/fbalpha2012/."
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr "Задать сопоставление контроллера по умолчанию."
+msgstr "Выбор стандартной раскладки контроллера."
 
 msgctxt "#30013"
 msgid "Gamepad"
@@ -79,27 +79,27 @@ msgstr "Геймпад"
 
 msgctxt "#30014"
 msgid "Arcade"
-msgstr "Аркадный"
+msgstr "Аркада"
 
 msgctxt "#30015"
 msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr "Выбирает предпочитаемое соотношение сторон содержимого. Это применяется только если в настройках видео RetroArch соотношение сторон установлено как «Предоставляемое ядром»."
+msgstr "Выбор предпочтительного соотношения сторон. Учитывается только при установке соотношения сторон RetroArch на 'Core Provided' в настройках видео."
 
 msgctxt "#30016"
 msgid "Automatically rotate the display when running vertically aligned games. When disabled, D-Pad input will be rotated to match on-screen directions."
-msgstr "Автоматически поворачивать дисплей при запуске вертикально ориентированных игр. При отключении ввод с крестовины будет повёрнут в соответствии с экранными направлениями."
+msgstr "Автоматически поворачивать экран при запуске вертикально ориентированных игр. При отключении, нажатия D-Pad будут развёрнуты для соответствия направлениям на экране."
 
 msgctxt "#30017"
 msgid "Enables a low pass audio filter to soften the 'harsh' sound of some arcade games."
-msgstr "Включает фильтр нижних частот, чтобы смягчить «резкий» звук некоторых аркадных игр."
+msgstr "Включает фильтр нижних частот для смягчения звука некоторых аркадных игр."
 
 msgctxt "#30018"
 msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr "Указывает частоту среза фильтра нижних частот. Более высокое значение увеличивает воспринимаемую «силу» фильтра, так как ослабляется более широкий диапазон высокочастотного спектра."
+msgstr "Настройка частоты среза для низкочастотного фильтра. Более высокие значения усиливают эффект фильтрации за счёт влияния на расширенный диапазон высоких частот."
 
 msgctxt "#30019"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr "Пропускать кадры, чтобы избежать опустошения звукового буфера (треска). Повышает производительность за счёт визуальной плавности. «Авто» пропускает кадры, когда это рекомендует фронтенд. «Вручную» использует настройку «Порог пропуска кадров (%)»."
+msgstr "Пропускать кадры, чтобы избежать появления треска при опустошении аудиобуфера. Улучшает производительность, но снижает плавность изображения. В режиме 'Авто' пропуск кадров регулируется фронтендом. В режиме 'Вручную' используется значение опции 'Граница пропуска кадров (%)'."
 
 msgctxt "#30020"
 msgid "Auto"
@@ -111,7 +111,7 @@ msgstr "Вручную"
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr "Когда «Пропуск кадров» установлен на «Вручную», задаёт порог заполненности звукового буфера (в процентах), ниже которого кадры будут пропускаться. Более высокие значения снижают риск треска, заставляя кадры отбрасываться чаще."
+msgstr "Устанавливает порог заполнения аудиобуфера ниже которого будет включаться пропуск кадров, если для опции 'Пропуск кадров' выбрано значение 'Вручную'. Большие значения снижают вероятность появления треска за счёт более частого пропуска кадров."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

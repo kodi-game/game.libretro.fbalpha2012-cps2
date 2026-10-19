@@ -35,7 +35,7 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr ""
+msgstr "Χειρισμοί"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
@@ -47,7 +47,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Φίλτρα Ήχου"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
@@ -63,7 +63,7 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "Ενεργοποιεί το overclocking του εξομoιωμένου επεξεργαστή. Μπορεί να μειώσει την επιβράδυνση, αλλά μπορεί να προκαλέσει δυσλειτουργίες."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
@@ -71,7 +71,7 @@ msgstr ""
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr ""
+msgstr "Ορισμός προεπιλεγμένου προφίλ χειριστηρίου."
 
 msgctxt "#30013"
 msgid "Gamepad"
@@ -103,11 +103,11 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "Auto"
-msgstr ""
+msgstr "Αυτόματο"
 
 msgctxt "#30021"
 msgid "Manual"
-msgstr ""
+msgstr "Χειροκίνητο"
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."

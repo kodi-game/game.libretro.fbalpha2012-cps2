@@ -35,7 +35,7 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr ""
+msgstr "Tombol Kendali"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
@@ -47,11 +47,11 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Saring Audio"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
-msgstr ""
+msgstr "Tingkat Saring Audio (%)"
 
 msgctxt "#30008"
 msgid "Frameskip"
@@ -63,7 +63,7 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "Mengaktifkan emulasi 'overclock' CPU. Dapat mengurangi lambat, tapi menyebabkan 'glitch'."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
@@ -71,7 +71,7 @@ msgstr ""
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr ""
+msgstr "Atur pemetaan stik kendali bawaan."
 
 msgctxt "#30013"
 msgid "Gamepad"
@@ -103,7 +103,7 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "Auto"
-msgstr ""
+msgstr "Otomatis"
 
 msgctxt "#30021"
 msgid "Manual"
@@ -111,7 +111,7 @@ msgstr ""
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Saat 'Lewati Bingkai' diatur ke 'Manual', tentukan (persentase) ambang batas hunian penyangga audio di bawah untuk bingkai mana yang dilewati. Nilai yang lebih tinggi mengurangi risiko keretakan dengan cara membuat laju bingkai sering anjlok."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

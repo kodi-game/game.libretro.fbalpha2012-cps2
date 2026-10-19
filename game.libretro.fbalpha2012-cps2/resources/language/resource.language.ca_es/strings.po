@@ -27,11 +27,11 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CPU Speed (%)"
-msgstr ""
+msgstr "Velocitat de la CPU (%)"
 
 msgctxt "#30002"
 msgid "High scores"
-msgstr ""
+msgstr "Puntuacions més altes"
 
 msgctxt "#30003"
 msgid "Controls"
@@ -39,43 +39,43 @@ msgstr ""
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "Relació d'aspecte proveïda pel nucli"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
-msgstr ""
+msgstr "Girar els jocs que tenen una alineació vertical (Es requereix reinici)"
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Filtre d'àudio"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
-msgstr ""
+msgstr "Nivell del filtre d'àudio (%)"
 
 msgctxt "#30008"
 msgid "Frameskip"
-msgstr ""
+msgstr "Ometre fotogrames"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Llindar d'omissió de fotogrames (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "Augmenta la velocitat de la CPU emulada. Pot reduir els alentiments en els jocs, però pot causar errors gràfics."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
-msgstr ""
+msgstr "Habilitar el desat de les puntuacions més altes en els jocs que ho permeten. És necessari un fitxer 'hiscore.dat' en la carpeta 'system/fbalpha2012/."
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr ""
+msgstr "Estableix l'assignació predeterminada pels controladors."
 
 msgctxt "#30013"
 msgid "Gamepad"
-msgstr ""
+msgstr "Comandament"
 
 msgctxt "#30014"
 msgid "Arcade"
@@ -83,27 +83,27 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Escull la relació d'aspecte preferida. Aquesta relació d'aspecte només s'aplicarà si la relació d'aspecte a RetroArch està fixada a 'Core provided' en la configuració de vídeo."
 
 msgctxt "#30016"
 msgid "Automatically rotate the display when running vertically aligned games. When disabled, D-Pad input will be rotated to match on-screen directions."
-msgstr ""
+msgstr "Gira automàticament la pantalla en els jocs amb alineació vertical. Si aquesta opció està desactivada, l'entrada de la creueta girarà perquè l'entrada de la creueta coincideixi amb la creueta en pantalla."
 
 msgctxt "#30017"
 msgid "Enables a low pass audio filter to soften the 'harsh' sound of some arcade games."
-msgstr ""
+msgstr "Habilita un filtre d'àudio passabaix per suavitzar els pics de so en alguns jocs arcade."
 
 msgctxt "#30018"
 msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr ""
+msgstr "Especifica el tall de freqüència del filtre d'àudio passabaix. Un valor alt es pot captar com un filtre amb més força, perquè esmorteeix un rang més gran de freqüències altes."
 
 msgctxt "#30019"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Omet fotogrames per no saturar la memòria intermèdia de l'àudio. Millora el rendiment a canvi de perdre fluïdesa visual. Selecció automàtica omet fotogrames a petició del front-end. El valor manual ajusta el llindar d'omissió de fotogrames (%)."
 
 msgctxt "#30020"
 msgid "Auto"
-msgstr ""
+msgstr "Automàtic"
 
 msgctxt "#30021"
 msgid "Manual"
@@ -111,4 +111,4 @@ msgstr ""
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Si l'omissió de fotogrames està fixada a 'Manual', aquesta opció selecciona el llindar inferior de la memòria intermèdia de l'àudio (en percentatge) per sota del no s'ometrà cap fotograma. Un valor més alt redueix el risc dels errors d'àudio, ometent fotogrames amb més freqüència."

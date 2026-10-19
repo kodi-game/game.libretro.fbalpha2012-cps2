@@ -35,7 +35,7 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr ""
+msgstr "Besturingselementen"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
@@ -103,7 +103,7 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "Auto"
-msgstr ""
+msgstr "Automatisch"
 
 msgctxt "#30021"
 msgid "Manual"

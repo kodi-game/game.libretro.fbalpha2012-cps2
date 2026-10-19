@@ -27,15 +27,15 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "CPU Speed (%)"
-msgstr ""
+msgstr "Prędkość procesora (%)"
 
 msgctxt "#30002"
 msgid "High scores"
-msgstr ""
+msgstr "Najlepsze wyniki"
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr ""
+msgstr "Elementy sterujące"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
@@ -47,7 +47,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Filtr audio"
 
 msgctxt "#30007"
 msgid "Audio Filter Level (%)"
@@ -55,27 +55,27 @@ msgstr ""
 
 msgctxt "#30008"
 msgid "Frameskip"
-msgstr ""
+msgstr "Pomijanie klatek"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Próg pominięcia ramki (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "Umożliwia przeciążenie emulowanego CPU. Może zmniejszyć spowolnienie, ale może powodować glitche."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
-msgstr ""
+msgstr "Umożliwia zapisywanie najlepszych wyników w obsługiwanych grach. Wymaga umieszczenia pliku 'hiscore.dat' w folderze system/fbalpha2012/."
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr ""
+msgstr "Ustaw domyślne mapowanie kontrolera."
 
 msgctxt "#30013"
 msgid "Gamepad"
-msgstr ""
+msgstr "Kontroler"
 
 msgctxt "#30014"
 msgid "Arcade"
@@ -87,7 +87,7 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "Automatically rotate the display when running vertically aligned games. When disabled, D-Pad input will be rotated to match on-screen directions."
-msgstr ""
+msgstr "Automatycznie obracaj ekran podczas uruchamiania gier wyrównanych w pionie. Gdy wyłączone, wejście D-Pad zostanie obrócone, aby pasowało do kierunku ekranu."
 
 msgctxt "#30017"
 msgid "Enables a low pass audio filter to soften the 'harsh' sound of some arcade games."
@@ -107,8 +107,8 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Manual"
-msgstr ""
+msgstr "Ręczny"
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Gdy 'Frameskip' jest ustawiony na 'Manual', określa próg zajęcia bufora audio (procent) poniżej którego ramki zostaną pominięte. Wyższe wartości zmniejszają ryzyko trzasków poprzez częstsze opuszczanie ramek."

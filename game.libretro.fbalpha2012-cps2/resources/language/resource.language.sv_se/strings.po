@@ -31,20 +31,20 @@ msgstr "CPU-hastighet (%)"
 
 msgctxt "#30002"
 msgid "High scores"
-msgstr "Höga poäng"
+msgstr "Bästa resultat"
 
 msgctxt "#30003"
 msgid "Controls"
-msgstr "Kontroller"
+msgstr "Spelkontroller"
 
 msgctxt "#30004"
 msgid "Core-Provided Aspect Ratio"
-msgstr "Bildförhållande som tillhandahålls av kärna"
+msgstr "Kärnspecifikt bildformat"
 
 #, fuzzy
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
-msgstr "Rotera vertikalt inriktade spel (omstart krävs)"
+msgstr "Rotera vertikalt inriktade spel (Omstart krävs)"
 
 msgctxt "#30006"
 msgid "Audio Filter"
@@ -61,47 +61,47 @@ msgstr "Hoppa över bildrutor"
 
 msgctxt "#30009"
 msgid "Frameskip Threshold (%)"
-msgstr "Tröskelvärde för bildöverhoppning (%)"
+msgstr "Frameskip Tröskelvärde (%)"
 
 msgctxt "#30010"
 msgid "Enables overclocking of the emulated CPU. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "Aktiverar överklockning av den emulerade CPU: n. Kan minska tröghet, men kan orsaka problem."
 
 msgctxt "#30011"
 msgid "Enables saving of high scores in supported games. Requires the file 'hiscore.dat' to be placed in your system/fbalpha2012/ folder."
-msgstr ""
+msgstr "Aktiverar sparande av bästa resultat i stödda spel. Kräver att filen 'hiscore.dat' placeras i din system/fbalpha2012/-mapp."
 
 msgctxt "#30012"
 msgid "Set default controller mapping."
-msgstr ""
+msgstr "Ange standardmappning för kontrollen."
 
 msgctxt "#30013"
 msgid "Gamepad"
-msgstr ""
+msgstr "Gamepad-kontroller"
 
 msgctxt "#30014"
 msgid "Arcade"
-msgstr ""
+msgstr "Arkad"
 
 msgctxt "#30015"
 msgid "Selects the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Väljer föredraget bildformat för innehåll. Detta kommer endast att tillämpas när RetroArchs bildformat är inställt på 'Kärnspecifikt' i Video-inställningarna."
 
 msgctxt "#30016"
 msgid "Automatically rotate the display when running vertically aligned games. When disabled, D-Pad input will be rotated to match on-screen directions."
-msgstr ""
+msgstr "Rotera skärmen automatiskt när vertikalt inriktade spel körs. När det är inaktiverat kommer D-Pad-ingången att roteras för att matcha skärmens riktningar."
 
 msgctxt "#30017"
 msgid "Enables a low pass audio filter to soften the 'harsh' sound of some arcade games."
-msgstr ""
+msgstr "Aktiverar ett lågpassljudfilter för att mildra det \"skarpa\" ljudet i vissa arkadspel."
 
 msgctxt "#30018"
 msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr ""
+msgstr "Anger avskärningsfrekvensen för det lågpassiga ljudfiltret. Ett högre värde ökar den upplevda \"styrkan\" hos filtret, eftersom ett bredare område av den höga frekvensspektrumet dämpas."
 
 msgctxt "#30019"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Hoppa över bildrutor för att undvika ljudbuffert-underkörning (sprakande). Förbättrar prestanda på bekostnad av visuell jämnhet. \"Automatiskt\" hoppar över bildrutor när det rekommenderas av gränssnittet. \"Manuell\" använder inställningen \"Bildrutetröskel (%)\" för att hoppa över bildrutor."
 
 msgctxt "#30020"
 msgid "Auto"
@@ -109,11 +109,11 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Manual"
-msgstr ""
+msgstr "Manuell"
 
 msgctxt "#30022"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "När 'Frameskip' är satt till 'Manuell', ange ljudbuffertens tröskel (i procent) under vilka ramar som kommer att hoppas över. Högre värden minskar risken för hackigt ljud genom att bildrutor tappas oftare."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
