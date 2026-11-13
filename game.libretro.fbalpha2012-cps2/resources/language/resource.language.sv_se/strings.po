@@ -43,7 +43,7 @@ msgstr "Kärnspecifikt bildformat"
 
 msgctxt "#30005"
 msgid "Rotate Vertically Aligned Games (Restart Required)"
-msgstr "Rotera vertikalt orienterade spel (kräver omstart)"
+msgstr "Rotera vertikalt inriktade spel (Omstart krävs)"
 
 msgctxt "#30006"
 msgid "Audio Filter"
